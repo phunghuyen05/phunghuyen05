@@ -1,61 +1,40 @@
-### Maximous Black
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Phung Huyen, freelancer (another word for unemployment:)) 
+  <br>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd2Z2lsem1id2Nlc2o5c3JmbTJpNWc2ZmFocWp2c3BoZGtlOXljcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" alt="Coder GIF" width="500">
 
-> /'mak.si.mus blak/
+I'm a third-year Business Administration student at Foreign Trade University with a strong interest in Business Analysis,
+data-driven decision-making, and process improvement. I have experience working as an English tutor and teaching assistant,
+which has strengthened my communication, requirement-gathering, and stakeholder interaction skills. I am currently
+seeking opportunities to develop as a Business Analyst.
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
+[`🏠 GitHub Profile`](https://github.com/phunghuyen05)
+[`📫 phungthihuyen20051210@gmail.com`](mailto:phungthihuyen20051210@gmail.com)
+[`💼 Business Administration – FTU`](https://ftu.edu.vn/)
+[`🎓 IELTS 7.0 Overall`](https://www.ielts.org/)
 
-[`🏠 maximousblk.me`](https://maximousblk.me/)
-[`📫 maximousblk@gmail.com`](mailto:maximousblk@gmail.com)
-[`🐦 @maximousblk`](https://twitter.com/maximousblk)
-[`🤓 EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+### 🛠️ SKILLS
+- Time management
+- Communication skills
+- Teamwork
+- Office computing skills
+- Using AI tools, Photoshop, and Canva
 
-### 👷 Check out what I'm currently working on
+### 💼 EXPERIENCE
+- **English Tutor for Grade 7 & 8 students** (May – July 2024)  
+- **Staff Member – Lotte Mall West Lake** (Aug – Nov 2024)  
+- **Staff Member – KidZania Hanoi** (Nov – Dec 2024)  
+- **English Teaching Assistant – The English Connection** (July 2024 – Present)
 
-- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
-- [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
-- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
-- [maximousblk/tsls](https://github.com/maximousblk/tsls) - list all ip address on a tailnet. useful with go-netaddrs
-- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - was testing if nomad works inside docker (no)
+### 🎯 EXTRACURRICULAR ACTIVITIES
+- Member of the Media & Communications Team, GEC Club – Foreign Trade University
+- Supported the organization of seminars held by the Faculty of International Economics (in collaboration with UNITAR)
+- Participated in the charity program **“Tết đoàn viên – Ánh trăng bình yên”**
 
-### 🌱 My latest projects
+### 📜 CERTIFICATIONS
+- IELTS 7.0 Overall
+- MOS (Microsoft Office Specialist)
 
-- [maximousblk/nyx](https://github.com/maximousblk/nyx) - 
-- [maximousblk/coredns-traefik-inet](https://github.com/maximousblk/coredns-traefik-inet) - coredns plugin to automatically map traifik hosts to an interface
-- [maximousblk/tsls](https://github.com/maximousblk/tsls) - list all ip address on a tailnet. useful with go-netaddrs
-- [maximousblk/cuda-nomad-tailscale](https://github.com/maximousblk/cuda-nomad-tailscale) - was testing if nomad works inside docker (no)
-- [maximousblk/ulid](https://github.com/maximousblk/ulid) - Universally Unique Lexicographically Sortable Identifier
-
-### 🔨 My recent Pull Requests
-
-- [Change access token input type to password](https://github.com/abinthomasonline/repo2txt/pull/28) on [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt)
-- [Replace `@setCold` with `@branchHint`](https://github.com/judofyr/spice/pull/13) on [judofyr/spice](https://github.com/judofyr/spice)
-- [ci(napi): revert to using `ubuntu-20.04` for linux builds](https://github.com/three-em/3em/pull/227) on [three-em/3em](https://github.com/three-em/3em)
-- [fix: reference error while server side rendering](https://github.com/tol-is/use-scramble/pull/3) on [tol-is/use-scramble](https://github.com/tol-is/use-scramble)
-- [BREAKING: Migrate to NextJS 14](https://github.com/maximousblk/maximousblk.me/pull/568) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
-
-### 🔭 Latest releases I've contributed to
-
-- [maximousblk/mill](https://github.com/maximousblk/mill) [`zed-industries/zed/8201f3d`](https://github.com/maximousblk/mill/releases/tag/zed-industries/zed/8201f3d) - Set of GitHub Actions for me to build my favorite projects.
-
-### ⭐ Recent Stars
-
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-### 💖 Recent followers
-
-- [**@isnt-one**](https://github.com/isnt-one)
-- [**@theavirajsaxena**](https://github.com/theavirajsaxena)
-- [**@linaTechDev**](https://github.com/linaTechDev)
-- [**@subashsrover**](https://github.com/subashsrover)
-- [**@vikram42003**](https://github.com/vikram42003)
-
-### 📰 Recent Blog Posts
-
-- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
-- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
-- [Hello World](https://maximousblk.me/posts/hello-world)
+[![Linkedin Badge](https://img.shields.io/badge/-phunghuyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ph%C3%B9ng-huy%E1%BB%81n-17a942305/)](https://www.linkedin.com/in/ph%C3%B9ng-huy%E1%BB%81n-17a942305/) [![Facebook Badge](https://img.shields.io/badge/-@phung_huyen-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/phung.huyen.285671)](https://www.facebook.com/phung.huyen.285671) [![Instagram Badge](https://img.shields.io/badge/-@phuyen_05-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/phunghuyen_05/)](https://www.instagram.com/phunghuyen_05/)
