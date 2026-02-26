@@ -5,7 +5,7 @@
   <br>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd2Z2lsem1id2Nlc2o5c3JmbTJpNWc2ZmFocWp2c3BoZGtlOXljcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" alt="Coder GIF" width="500">
 
-I'm a third-year Business Administration student at Foreign Trade University with a strong interest in Business Analysis,
+> I'm a third-year Business Administration student at Foreign Trade University with a strong interest in Business Analysis,
 data-driven decision-making, and process improvement. I have experience working as an English tutor and teaching assistant,
 which has strengthened my communication, requirement-gathering, and stakeholder interaction skills. I am currently
 seeking opportunities to develop as a Business Analyst.
