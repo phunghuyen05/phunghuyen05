@@ -35,7 +35,40 @@ body {
   color: #0969da;
   font-weight: 500;
 }
+/* ===== PHẦN DƯỚI CV ===== */
+.cv-section {
+  max-width: 720px;
+  margin: 40px auto;     /* CĂN GIỮA CẢ KHỐI */
+  padding: 0 40px;
+}
+
+/* Tiêu đề */
+.cv-section h3 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+/* Danh sách */
+.cv-section ul {
+  padding-left: 20px;
+  line-height: 1.6;
+}
 
 .gh-links a:hover {
   text-decoration: underline;
+}
+/* ===== CONNECT SECTION ===== */
+.connect-title {
+  text-align: center;
+  margin-top: 50px;
+}
+.social-links {
+  display: flex;
+  justify-content: center;   /* căn giữa */
+  gap: 12px;                 /* khoảng cách giữa icon */
+  margin-top: 16px;
+}
+
+.social-links img {
+  height: 28px;              /* đồng đều kích thước */
 }
